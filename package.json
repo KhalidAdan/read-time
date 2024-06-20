@@ -1,0 +1,14 @@
+{
+  "name": "read-time",
+  "version": "1.0.0",
+  "description": "A simple text to read time script",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "codeworks.so",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
